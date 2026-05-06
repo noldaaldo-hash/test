@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+allow:
+Sitemap: https://callgirlindehradunescort.info/sitemap.xml
